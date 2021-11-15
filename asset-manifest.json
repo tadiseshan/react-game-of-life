@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-game-of-life/static/css/main.e68a3102.chunk.css",
+    "main.js": "/react-game-of-life/static/js/main.d3fb37f1.chunk.js",
+    "main.js.map": "/react-game-of-life/static/js/main.d3fb37f1.chunk.js.map",
+    "runtime-main.js": "/react-game-of-life/static/js/runtime-main.6f6d10b6.js",
+    "runtime-main.js.map": "/react-game-of-life/static/js/runtime-main.6f6d10b6.js.map",
+    "static/js/2.a443b9c1.chunk.js": "/react-game-of-life/static/js/2.a443b9c1.chunk.js",
+    "static/js/2.a443b9c1.chunk.js.map": "/react-game-of-life/static/js/2.a443b9c1.chunk.js.map",
+    "static/js/3.a523cb20.chunk.js": "/react-game-of-life/static/js/3.a523cb20.chunk.js",
+    "static/js/3.a523cb20.chunk.js.map": "/react-game-of-life/static/js/3.a523cb20.chunk.js.map",
+    "index.html": "/react-game-of-life/index.html",
+    "static/css/main.e68a3102.chunk.css.map": "/react-game-of-life/static/css/main.e68a3102.chunk.css.map",
+    "static/js/2.a443b9c1.chunk.js.LICENSE.txt": "/react-game-of-life/static/js/2.a443b9c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f6d10b6.js",
+    "static/js/2.a443b9c1.chunk.js",
+    "static/css/main.e68a3102.chunk.css",
+    "static/js/main.d3fb37f1.chunk.js"
+  ]
+}
